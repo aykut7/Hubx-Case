@@ -25,7 +25,7 @@ This project is a **React Native** mobile application built using **Expo Go**. I
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hubx-case.git
+git clone https://github.com/aykut7/hubx-case.git
 cd hubx-case
 ```
 
